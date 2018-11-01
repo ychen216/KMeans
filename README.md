@@ -18,4 +18,4 @@
 
 
 ## C++ implementation
-  [C++ code](https://github.com/ychen216/Kmeans/blob/master/Kmeans/main.cpp)
+  [C++ code](https://github.com/ychen216/KMeans/tree/master/source)
